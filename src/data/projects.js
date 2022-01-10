@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Project 1',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
@@ -12,7 +12,7 @@ const data = [
       + 'the charity of your choice.',
   },
   {
-    title: 'Harvest',
+    title: 'Project 2',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
@@ -23,7 +23,7 @@ const data = [
       + 'and nutrient deficiencies at an affordable price for the developing world.',
   },
   {
-    title: 'Space Potato',
+    title: 'Project 3',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
@@ -34,7 +34,7 @@ const data = [
       + 'You can email me for a copy.',
   },
   {
-    title: 'Cat Detector',
+    title: 'Project 4',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
     date: '2015-05-15',
