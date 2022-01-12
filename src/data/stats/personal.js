@@ -79,7 +79,7 @@ const data = [
   {
     key: 'geek',
     label: 'Currently geeking',
-    value: 'NFTs, VR/AR, CS',
+    value: 'NFTs, Airplanes',
   },
   {
     key: 'languange',

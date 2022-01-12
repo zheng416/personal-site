@@ -31,6 +31,7 @@ const positions = [
     points: [
       'Garnered experience working in an Agile environment with RESTful API to implement new billing fees due to non-sufficient funds (NSF) and/or late payments, delivering nearly $1M in additional revenue.',
       'Gained skill and understanding of batch billing processes and back-end infrastructure of fee calculations to consolidate work from six other developers in order to rewrite code from PL/SQL to C# for future scalability.',
+      'Supervised the IT department migration of 100+ files between two SharePoint hosts for correctness and successful transition as part of merger with new parent company.',
     ],
   },
   {
