@@ -67,6 +67,11 @@ const data = [
     value: 'Pop',
   },
   {
+    key: 'book',
+    label: 'Recent book',
+    value: 'The Song of Achilles',
+  },
+  {
     key: 'influencer',
     label: 'Favorite influencer',
     value: 'DisguisedToast',
