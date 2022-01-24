@@ -1,38 +1,38 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Project 1',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Dunnit',
+    subtitle: 'A Collaborative Task App',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2021-11-20',
+    date: '2021-05-01',
     desc:
-      'Description Placeholder ',
+      'A Collaborative Task App',
   },
   {
-    title: 'Project 2',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    title: 'CreekIt',
+    subtitle: 'A Social Media App',
     // link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
-    date: '2021-09-20',
+    date: '2020-12-05',
     desc:
-      'Description Placeholder ',
+      'A Social Media App',
   },
   {
-    title: 'Project 3',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    title: 'Internship: Software Engineer with CONNECT',
+    subtitle: 'Internship Experience as SWE with CONNECT',
     // link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
-    date: '2020-06-28',
+    date: '2021-06-07',
     desc:
-      'Description Placeholder ',
+      'Summer Internship Review 2021',
   },
   {
-    title: 'Project 4',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    title: 'Internship: IT with CONNECT',
+    subtitle: 'Internship Experience as IT with CONNECT',
     image: '/images/projects/catdetector.jpg',
-    date: '2019-05-15',
+    date: '2020-06-01',
     desc:
-      'Description Placeholder ',
+      'Summer Internship Review 2020',
   },
 ];
 
