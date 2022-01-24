@@ -1,7 +1,7 @@
 
 # Intro
 
-I am currently a senior, currently pursuing a Bachelor of Science in Computer Science while also minoring in Economics at Purdue University. I was a teaching assistant, helping students debug their code, clarifying newly learned concepts, and providing personal tips on approaching a problem. I was a treasurer for an organization and was part of a committee that hosted a leadership conference for my school. In the past two summers, I experienced two internships, gaining real-world experience from applying my education to contribute to their projects and goals. 
+I am a senior, pursuing a Bachelor of Science in Computer Science while also minoring in Economics at Purdue University. I was a teaching assistant, helping students debug their code, clarifying newly learned concepts, and providing personal tips on approaching a problem. I was a treasurer for an organization and was part of a committee that hosted a leadership conference for my school. In the past two summers, I experienced two internships, gaining real-world experience from applying my education to contribute to their projects and goals. 
 
 # Currently
 
@@ -26,7 +26,7 @@ I am seeking an opportunity to further my development after graduation by going 
 
 - At 18, I started college and made interesting decisions as a freshman. Classes, Jobs, Friends, etc. 
 
-- At 22, I finally launched this website. Yes, it took a while. Thanks for waiting. 
+- At 22, I finally launched this website. Yes, it took a while. Special thanks to Athena Yao.
 
 # I like
 
