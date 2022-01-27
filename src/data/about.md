@@ -26,7 +26,7 @@ I am seeking an opportunity to further my development after graduation by going 
 
 - At 18, I started college and made interesting decisions as a freshman. Classes, Jobs, Friends, etc. 
 
-- At 22, I finally launched this website. Yes, it took a while. Special thanks to Athena Yao.
+- At 22, I finally launched this website. Yes, it took a while. 
 
 # I like
 
